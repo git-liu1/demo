@@ -1,0 +1,26 @@
+.summary{
+	margin-top: 50px;
+	font-size: 15px;
+	text-align: left;
+	line-height: 60px;
+}
+.container{
+	padding: 0 220px;
+	line-height: 60px;
+	margin-bottom: 130px;
+}
+.title{
+	font-size: 30px;
+}
+.content{
+	font-size:20px;
+}
+.tips{
+	width: 60%;
+	margin: auto;
+	display: flex;
+	justify-content: space-around;
+}
+.tips li{
+	width: 25%;
+}
